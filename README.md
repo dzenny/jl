@@ -1,8 +1,8 @@
 # Учебные материалы
-с использованием JupyterLite
+ (на основе JupyterLite)
 
 ## Использование
-[https://dzenny.github.io/jl](https://dzenny.github.io/jl)
+Открыть ссылку [https://dzenny.github.io/jl/retro/notebooks/?path=python.ipynb](https://dzenny.github.io/jl/retro/notebooks/?path=main.ipynb)
 
 ## Тестировалось
 
