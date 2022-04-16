@@ -4,13 +4,9 @@
       "displayName": "English",
       "nativeName": "English"
     },
-    "fr_FR": {
-      "displayName": "French (France)",
-      "nativeName": "Fran\u00e7ais (France)"
-    },
-    "zh_CN": {
-      "displayName": "Chinese (Simplified, China)",
-      "nativeName": "\u4e2d\u6587 (\u7b80\u4f53, \u4e2d\u56fd)"
+    "ru_RU": {
+      "displayName": "Russian (Russia)",
+      "nativeName": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 (\u0420\u043e\u0441\u0441\u0438\u044f)"
     }
   },
   "message": ""

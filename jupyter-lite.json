@@ -29,29 +29,8 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.444cde1d553878a66dd2.js",
-        "name": "@jupyterlite/xeus-lua-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
         "load": "static/remoteEntry.098ba362c471964915fd.js",
         "name": "@jupyterlite/xeus-sqlite-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.c2f83b94be82afd02dbe.js",
-        "name": "@jupyterlite/xeus-wren-kernel",
         "style": "./style"
       },
       {
@@ -93,15 +72,15 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
-        "name": "jupyter-wren-syntax",
+        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
+        "name": "jupyterlab-drawio",
         "style": "./style"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
+        "load": "static/remoteEntry.8fe64f9bb3e5c3f2600f.js",
+        "name": "jupyterlab-filesystem-access",
         "style": "./style"
       },
       {
