@@ -1,6 +1,6 @@
 # venv 
 .venv/
-README.md
+README.html
 
 *.bundle.*
 lib/
