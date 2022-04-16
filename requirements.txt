@@ -8,7 +8,6 @@ jupyterlab-drawio
 jupyterlab-language-pack-ru-RU
 jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
-jupyterlab-tour
 jupyterlab_miami_nights
 jupyterlab-filesystem-access
 jupyterlite==0.1.0b4
